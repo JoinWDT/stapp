@@ -1,2 +1,2 @@
-# stapp_jl
+# stapp
 社团
